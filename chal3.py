@@ -1,3 +1,9 @@
+### Task ###
+"""
+Challenge 3:
+Given two points on a grid, draw a line between them and print it as ASCII art
+"""
+
 ### Functions ###
 # grid print function
 def prettyPrintGrid(grid):
