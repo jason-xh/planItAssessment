@@ -1,3 +1,9 @@
+// TASK
+/*
+Challenge 6:
+Make an API call to https://petstore.swagger.io/v2/pet/findByStatus?status=available and display a count of
+the number of pets in the result
+*/
 // note that I believe node does not currently come with fetch
 
 const uniquePets = new Map();
